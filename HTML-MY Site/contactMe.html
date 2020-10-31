@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Source</th>
+                <th>Contact</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Phone</td>
+                <td>9876543210</td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>abc123@xyz</td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td>A-47, XYZ, Delhi</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>Send message</h3>
+    <form action="mailto:info@gmail.com" method="POST" enctype="text/plain">
+        <label>Enter your name - </label>
+        <input type="text" placeholder="Enter your name" name="Name"><br><br>
+        <label>Email ID - </label>
+        <input type="email" placeholder="Enter your email ID" name="Email"><br><br>
+        <label>DOB - </label>
+        <input type="date" value="01-01-2000" name="DOB"><br><br>
+        <label>Upload your Photo - </label>
+        <input type="file"><br><br>
+        <label>Gender - </label>
+        <input type="radio">Male</input>
+        <input type="radio">Female</input>
+        <input type="radio">Others</input><br><br>
+        <label>Level of importance of your message - </label>
+        <input type="range"><br><br>
+        <label>Enter your message - </label><br>
+        <textarea placeholder="Enter your Message Here"cols="30" rows="10"></textarea><br><br>
+        <input type="submit" value="Submit" name="Submit">
+    </form>
+</body>
+</html>
