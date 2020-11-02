@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 5px;
+    color: #11999E;
+    padding: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #66BFBF;
+    border: solid #FFFFFF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+.btn:hover {
+    background: #93AACF;
+    border: inset #FFFFFF 1px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+
+.contact-me {
+    /*background-color: orangered;*/
+    padding: 5px;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 20px auto 50px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    padding-top: 20px;
+}
+
+.ds-algo {
+    width: 50%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px 20px;
+    color: #11999E;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+h1 {
+    margin: 0;
+    font-size: 5.625rem;
+    font-family: 'Sansita Swashed', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: silver;
+    border-width: 8px;
+    width: 6%;
+    margin: 30px auto;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    padding: 20px;
+}
+
+.my-pic {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.p {
+    color: #40514E;
+}
+
+.profile {
+    /*background-color: aqua;*/
+    padding: 3px;
+}
+
+.skill {
+    text-decoration: underline;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills {
+    /*background-color: goldenrod;*/
+    padding: 10px;
+}
+
+.subtitle {
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+
+.web-dev {
+    width: 50%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
