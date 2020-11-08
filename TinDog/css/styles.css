@@ -1,0 +1,169 @@
+/*----------ids----------*/
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+#features {
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+}
+
+#footer {
+    background-color: #fff;
+    padding: 3% 7%;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+#pricing {
+    padding: 100px;
+}
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+}
+
+/*----------classes----------*/
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-weight: bolder;
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.down-btn {
+    margin: 5% 3% 5% 0;;
+}
+
+.feature-heading {
+    font-size: 2rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
+.feature-icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+    color: #ff4c68;
+}
+
+.feature-row {
+    padding: 5%;
+}
+
+.footer-icon {
+    padding: 12px;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.2rem;
+    font-weight: bolder;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+.press-img {
+    margin: 20px 20px 50px;
+    width: 15%;
+}
+
+.pricing-heading {
+    font-size: 3rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+.title-img {
+    position: absolute;
+    right: 30%;
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+.testimonials-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonials-img {
+    border-radius: 50%;
+    margin: 20px;
+    width: 10%;
+}
+
+/*----------tags----------*/
+
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserra-bold";
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/*----------media----------*/
+
+@media (max-width: 991.5px) {
+    
+    #title {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+}
