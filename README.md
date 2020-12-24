@@ -7,3 +7,6 @@ CSS - My Site    -  https://eshan1809.github.io/Basic-WebDev-Projects/CSS%20-%20
 
 
 TinDog           -  https://eshan1809.github.io/Basic-WebDev-Projects/TinDog/index.html
+
+
+Dice Game        -  https://eshan1809.github.io/Basic-WebDev-Projects/DOM/Dice Game/index.html
