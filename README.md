@@ -10,3 +10,6 @@ TinDog           -  https://eshan1809.github.io/Basic-WebDev-Projects/TinDog/ind
 
 
 Dice Game        -  https://eshan1809.github.io/Basic-WebDev-Projects/DOM/Dice%20Game/index.html
+
+
+Drum Kit         -  https://eshan1809.github.io/Basic-WebDev-Projects/DOM/Drum%20Kit/index.html
