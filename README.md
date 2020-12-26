@@ -13,3 +13,6 @@ Dice Game        -  https://eshan1809.github.io/Basic-WebDev-Projects/DOM/Dice%2
 
 
 Drum Kit         -  https://eshan1809.github.io/Basic-WebDev-Projects/DOM/Drum%20Kit/index.html
+
+
+Simon Game       -  https://eshan1809.github.io/Basic-WebDev-Projects/Simon%20Game/index.html
